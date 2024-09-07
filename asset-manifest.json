@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GDZScalc/static/css/main.d9d5b277.css",
+    "main.js": "/GDZScalc/static/js/main.575aa6f3.js",
+    "static/media/11394_00.png": "/GDZScalc/static/media/11394_00.3d93bf0f44f062328e18.png",
+    "index.html": "/GDZScalc/index.html",
+    "main.d9d5b277.css.map": "/GDZScalc/static/css/main.d9d5b277.css.map",
+    "main.575aa6f3.js.map": "/GDZScalc/static/js/main.575aa6f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9d5b277.css",
+    "static/js/main.575aa6f3.js"
+  ]
+}
